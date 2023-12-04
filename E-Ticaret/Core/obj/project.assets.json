@@ -3144,11 +3144,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\sehen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\Core\\obj\\",
+      "outputPath": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

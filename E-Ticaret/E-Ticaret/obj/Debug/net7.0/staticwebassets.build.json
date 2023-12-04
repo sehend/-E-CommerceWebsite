@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Vxpmk+JGErfnWliDgtTnCkbBci1a/npTx2fGI+z999g=",
+  "Hash": "Qsi8Bi8Nm8/4ft+f74U4a4TRf1NgmY7Iypxc9bBnptg=",
   "Source": "E-Ticaret",
   "BasePath": "_content/E-Ticaret",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "E-Ticaret\\wwwroot",
       "Source": "E-Ticaret",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\obj\\Debug\\net7.0\\scopedcss\\bundle\\E-Ticaret.styles.css",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\obj\\Debug\\net7.0\\scopedcss\\bundle\\E-Ticaret.styles.css",
       "SourceId": "E-Ticaret",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "E-Ticaret.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\obj\\Debug\\net7.0\\scopedcss\\bundle\\E-Ticaret.styles.css"
+      "OriginalItemSpec": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\obj\\Debug\\net7.0\\scopedcss\\bundle\\E-Ticaret.styles.css"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\E-Ticaret.bundle.scp.css",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\E-Ticaret.bundle.scp.css",
       "SourceId": "E-Ticaret",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "E-Ticaret.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\E-Ticaret.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\E-Ticaret.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\css\\site.css",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\js\\site.js",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\02e378bf-b9d5-4962-8599-7b94e36a0477.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\02e378bf-b9d5-4962-8599-7b94e36a0477.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/02e378bf-b9d5-4962-8599-7b94e36a0477.jpg",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\02e378bf-b9d5-4962-8599-7b94e36a0477.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\03a335e4-cd88-4708-bbdf-11d0c717fc93.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\03a335e4-cd88-4708-bbdf-11d0c717fc93.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/03a335e4-cd88-4708-bbdf-11d0c717fc93.jpg",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\03a335e4-cd88-4708-bbdf-11d0c717fc93.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\041bc288-7472-4d7a-b42f-34d83be8e8fd.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\041bc288-7472-4d7a-b42f-34d83be8e8fd.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/041bc288-7472-4d7a-b42f-34d83be8e8fd.jpg",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\041bc288-7472-4d7a-b42f-34d83be8e8fd.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\0587526a-e5d6-4c4d-8355-21c6d7559187.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\0587526a-e5d6-4c4d-8355-21c6d7559187.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/0587526a-e5d6-4c4d-8355-21c6d7559187.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\0587526a-e5d6-4c4d-8355-21c6d7559187.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\086e238b-cfde-45d7-8829-2083ab3d8da0.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\086e238b-cfde-45d7-8829-2083ab3d8da0.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/086e238b-cfde-45d7-8829-2083ab3d8da0.jpg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\086e238b-cfde-45d7-8829-2083ab3d8da0.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\08a2cf3a-9442-4563-b430-b65ca0a40e32.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\08a2cf3a-9442-4563-b430-b65ca0a40e32.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/08a2cf3a-9442-4563-b430-b65ca0a40e32.jpg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\08a2cf3a-9442-4563-b430-b65ca0a40e32.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\090f7e6d-7f42-4dbb-9b0a-0a406985e417.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\090f7e6d-7f42-4dbb-9b0a-0a406985e417.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/090f7e6d-7f42-4dbb-9b0a-0a406985e417.jpg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\090f7e6d-7f42-4dbb-9b0a-0a406985e417.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\0934a665-7442-4617-8d95-64475de9f465.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\0934a665-7442-4617-8d95-64475de9f465.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/0934a665-7442-4617-8d95-64475de9f465.jpg",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\0934a665-7442-4617-8d95-64475de9f465.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\11c21943-5d70-4e18-84c0-18d775bc5a99.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\11c21943-5d70-4e18-84c0-18d775bc5a99.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/11c21943-5d70-4e18-84c0-18d775bc5a99.jpg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\11c21943-5d70-4e18-84c0-18d775bc5a99.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\1b481c37-078f-45b8-bf7b-1f9f62bc1414.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\1b481c37-078f-45b8-bf7b-1f9f62bc1414.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/1b481c37-078f-45b8-bf7b-1f9f62bc1414.jpg",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\1b481c37-078f-45b8-bf7b-1f9f62bc1414.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\1e7ee9eb-9a37-4578-aafc-5af23fa8cc37.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\1e7ee9eb-9a37-4578-aafc-5af23fa8cc37.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/1e7ee9eb-9a37-4578-aafc-5af23fa8cc37.jpg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\1e7ee9eb-9a37-4578-aafc-5af23fa8cc37.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\1eb6e005-cb93-4b6d-9162-fed770ce9bf5.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\1eb6e005-cb93-4b6d-9162-fed770ce9bf5.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/1eb6e005-cb93-4b6d-9162-fed770ce9bf5.jpg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\1eb6e005-cb93-4b6d-9162-fed770ce9bf5.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\2431867d-36e6-487e-939d-51c804bd2471.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\2431867d-36e6-487e-939d-51c804bd2471.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/2431867d-36e6-487e-939d-51c804bd2471.jpg",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\2431867d-36e6-487e-939d-51c804bd2471.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\2527c0e2-3b2d-43e8-a844-03a5ef90f3a2.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\2527c0e2-3b2d-43e8-a844-03a5ef90f3a2.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/2527c0e2-3b2d-43e8-a844-03a5ef90f3a2.jpg",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\2527c0e2-3b2d-43e8-a844-03a5ef90f3a2.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\2a4bbd40-80a6-40fd-8044-a018ac4a3195.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\2a4bbd40-80a6-40fd-8044-a018ac4a3195.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/2a4bbd40-80a6-40fd-8044-a018ac4a3195.jpg",
       "AssetKind": "All",
@@ -1309,27 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\2a4bbd40-80a6-40fd-8044-a018ac4a3195.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\2a943588-106f-4535-8109-ceb17161120b.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\2ccb4093-dbae-4927-8740-7bc885687ed2.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
-      "BasePath": "_content/E-Ticaret",
-      "RelativePath": "UserPicture/2a943588-106f-4535-8109-ceb17161120b.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\UserPicture\\2a943588-106f-4535-8109-ceb17161120b.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\2ccb4093-dbae-4927-8740-7bc885687ed2.jpg",
-      "SourceId": "E-Ticaret",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/2ccb4093-dbae-4927-8740-7bc885687ed2.jpg",
       "AssetKind": "All",
@@ -1343,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\2ccb4093-dbae-4927-8740-7bc885687ed2.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\330df2f3-f85b-442e-9c4a-6dd625059a7e.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\330df2f3-f85b-442e-9c4a-6dd625059a7e.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/330df2f3-f85b-442e-9c4a-6dd625059a7e.jpg",
       "AssetKind": "All",
@@ -1360,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\330df2f3-f85b-442e-9c4a-6dd625059a7e.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\362a0574-f962-405f-ae65-18e3fe829e8f.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\362a0574-f962-405f-ae65-18e3fe829e8f.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/362a0574-f962-405f-ae65-18e3fe829e8f.jpg",
       "AssetKind": "All",
@@ -1377,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\362a0574-f962-405f-ae65-18e3fe829e8f.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\3b4c0edf-615a-471c-acf5-cc94f02fbd08.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\3b4c0edf-615a-471c-acf5-cc94f02fbd08.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/3b4c0edf-615a-471c-acf5-cc94f02fbd08.jpg",
       "AssetKind": "All",
@@ -1394,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\3b4c0edf-615a-471c-acf5-cc94f02fbd08.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\3fe831ee-f780-4b6c-80b4-975cd77b7a20.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\3fe831ee-f780-4b6c-80b4-975cd77b7a20.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/3fe831ee-f780-4b6c-80b4-975cd77b7a20.jpg",
       "AssetKind": "All",
@@ -1411,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\3fe831ee-f780-4b6c-80b4-975cd77b7a20.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\658a6022-f571-47f8-856b-92b3eda87dd2.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\658a6022-f571-47f8-856b-92b3eda87dd2.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/658a6022-f571-47f8-856b-92b3eda87dd2.jpg",
       "AssetKind": "All",
@@ -1428,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\658a6022-f571-47f8-856b-92b3eda87dd2.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\6d4ab7db-7e91-4735-beaf-ac1cdf69c8ab.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\6d4ab7db-7e91-4735-beaf-ac1cdf69c8ab.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/6d4ab7db-7e91-4735-beaf-ac1cdf69c8ab.jpg",
       "AssetKind": "All",
@@ -1445,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\6d4ab7db-7e91-4735-beaf-ac1cdf69c8ab.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\6e29123a-97bc-422d-88cd-769b1f856b3d.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\6e29123a-97bc-422d-88cd-769b1f856b3d.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/6e29123a-97bc-422d-88cd-769b1f856b3d.jpg",
       "AssetKind": "All",
@@ -1462,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\6e29123a-97bc-422d-88cd-769b1f856b3d.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\79055393-0e70-4257-9e3d-9db9269417ed.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\79055393-0e70-4257-9e3d-9db9269417ed.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/79055393-0e70-4257-9e3d-9db9269417ed.jpg",
       "AssetKind": "All",
@@ -1479,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\79055393-0e70-4257-9e3d-9db9269417ed.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\7c151504-582e-4a2c-a834-1c3ef445f9bf.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\7c151504-582e-4a2c-a834-1c3ef445f9bf.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/7c151504-582e-4a2c-a834-1c3ef445f9bf.jpg",
       "AssetKind": "All",
@@ -1496,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\7c151504-582e-4a2c-a834-1c3ef445f9bf.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\810d948f-daef-4287-b945-6a5a915ad52f.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\810d948f-daef-4287-b945-6a5a915ad52f.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/810d948f-daef-4287-b945-6a5a915ad52f.jpg",
       "AssetKind": "All",
@@ -1513,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\810d948f-daef-4287-b945-6a5a915ad52f.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\82295e42-2313-4a6e-a9c6-24d5d2e330e0.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\82295e42-2313-4a6e-a9c6-24d5d2e330e0.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/82295e42-2313-4a6e-a9c6-24d5d2e330e0.jpg",
       "AssetKind": "All",
@@ -1530,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\82295e42-2313-4a6e-a9c6-24d5d2e330e0.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\82927427-9b69-4414-964d-99b9dceb6ba3.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\82927427-9b69-4414-964d-99b9dceb6ba3.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/82927427-9b69-4414-964d-99b9dceb6ba3.jpg",
       "AssetKind": "All",
@@ -1547,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\82927427-9b69-4414-964d-99b9dceb6ba3.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\8fb41d06-f50b-4806-a0da-bb38b9873ccf.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\8fb41d06-f50b-4806-a0da-bb38b9873ccf.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/8fb41d06-f50b-4806-a0da-bb38b9873ccf.jpg",
       "AssetKind": "All",
@@ -1564,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\8fb41d06-f50b-4806-a0da-bb38b9873ccf.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\9520c87b-4123-435e-ac23-b503f1c6c682.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\9520c87b-4123-435e-ac23-b503f1c6c682.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/9520c87b-4123-435e-ac23-b503f1c6c682.jpg",
       "AssetKind": "All",
@@ -1581,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\9520c87b-4123-435e-ac23-b503f1c6c682.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\96c7ee68-3d32-4fc2-9e8a-4c2fb06d2cbc.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\96c7ee68-3d32-4fc2-9e8a-4c2fb06d2cbc.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/96c7ee68-3d32-4fc2-9e8a-4c2fb06d2cbc.jpg",
       "AssetKind": "All",
@@ -1598,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\96c7ee68-3d32-4fc2-9e8a-4c2fb06d2cbc.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\9f184ff9-2e0a-4558-a721-d601985a5a8a.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\9f184ff9-2e0a-4558-a721-d601985a5a8a.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/9f184ff9-2e0a-4558-a721-d601985a5a8a.jpg",
       "AssetKind": "All",
@@ -1615,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\9f184ff9-2e0a-4558-a721-d601985a5a8a.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\9f892dcf-0d9c-4f1c-8896-a077337b0346.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\9f892dcf-0d9c-4f1c-8896-a077337b0346.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/9f892dcf-0d9c-4f1c-8896-a077337b0346.jpg",
       "AssetKind": "All",
@@ -1632,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\9f892dcf-0d9c-4f1c-8896-a077337b0346.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\a1119dbc-364b-453d-b2b9-e010b90b3f8e.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\a1119dbc-364b-453d-b2b9-e010b90b3f8e.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/a1119dbc-364b-453d-b2b9-e010b90b3f8e.jpg",
       "AssetKind": "All",
@@ -1649,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\a1119dbc-364b-453d-b2b9-e010b90b3f8e.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\a1ad8dad-de78-4763-885b-cc89c7036783.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\a1ad8dad-de78-4763-885b-cc89c7036783.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/a1ad8dad-de78-4763-885b-cc89c7036783.jpg",
       "AssetKind": "All",
@@ -1666,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\a1ad8dad-de78-4763-885b-cc89c7036783.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\a1d8f79b-9e8b-4567-9094-a7833f20e1d7.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\a1d8f79b-9e8b-4567-9094-a7833f20e1d7.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/a1d8f79b-9e8b-4567-9094-a7833f20e1d7.jpg",
       "AssetKind": "All",
@@ -1683,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\a1d8f79b-9e8b-4567-9094-a7833f20e1d7.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\b11d2305-d51b-49b5-9cf6-d829c8027ecf.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\b11d2305-d51b-49b5-9cf6-d829c8027ecf.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/b11d2305-d51b-49b5-9cf6-d829c8027ecf.jpg",
       "AssetKind": "All",
@@ -1700,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\b11d2305-d51b-49b5-9cf6-d829c8027ecf.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\b49194e7-1ce0-42ef-b0a8-7e3a707b85af.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\b49194e7-1ce0-42ef-b0a8-7e3a707b85af.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/b49194e7-1ce0-42ef-b0a8-7e3a707b85af.jpg",
       "AssetKind": "All",
@@ -1717,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\b49194e7-1ce0-42ef-b0a8-7e3a707b85af.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\bc17eee8-5fc2-4c0a-a61b-dd15a3ade0e2.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\bc17eee8-5fc2-4c0a-a61b-dd15a3ade0e2.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/bc17eee8-5fc2-4c0a-a61b-dd15a3ade0e2.jpg",
       "AssetKind": "All",
@@ -1734,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\bc17eee8-5fc2-4c0a-a61b-dd15a3ade0e2.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\bf9f685f-6859-4277-ae0d-b2be2176cb08.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\bf9f685f-6859-4277-ae0d-b2be2176cb08.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/bf9f685f-6859-4277-ae0d-b2be2176cb08.jpg",
       "AssetKind": "All",
@@ -1751,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\bf9f685f-6859-4277-ae0d-b2be2176cb08.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\c1bde4be-325a-42f5-8b89-38340e9a2966.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\c1bde4be-325a-42f5-8b89-38340e9a2966.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/c1bde4be-325a-42f5-8b89-38340e9a2966.jpg",
       "AssetKind": "All",
@@ -1768,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\c1bde4be-325a-42f5-8b89-38340e9a2966.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\c4b093b0-47bd-47de-8ad1-abfc09ab358e.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\c4b093b0-47bd-47de-8ad1-abfc09ab358e.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/c4b093b0-47bd-47de-8ad1-abfc09ab358e.jpg",
       "AssetKind": "All",
@@ -1785,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\c4b093b0-47bd-47de-8ad1-abfc09ab358e.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\c8c64673-02d8-483d-883f-af90578e1bff.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\c8c64673-02d8-483d-883f-af90578e1bff.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/c8c64673-02d8-483d-883f-af90578e1bff.jpg",
       "AssetKind": "All",
@@ -1802,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\c8c64673-02d8-483d-883f-af90578e1bff.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\c8f05a75-4255-4f46-b857-28d545a5938e.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\c8f05a75-4255-4f46-b857-28d545a5938e.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/c8f05a75-4255-4f46-b857-28d545a5938e.jpg",
       "AssetKind": "All",
@@ -1819,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\c8f05a75-4255-4f46-b857-28d545a5938e.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\cb359272-81d0-4187-a357-3e7f94f77f62.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\cb359272-81d0-4187-a357-3e7f94f77f62.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/cb359272-81d0-4187-a357-3e7f94f77f62.jpg",
       "AssetKind": "All",
@@ -1836,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\cb359272-81d0-4187-a357-3e7f94f77f62.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\cd033e58-0223-45c1-a76d-b30ab6980996.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\cd033e58-0223-45c1-a76d-b30ab6980996.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/cd033e58-0223-45c1-a76d-b30ab6980996.jpg",
       "AssetKind": "All",
@@ -1853,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\cd033e58-0223-45c1-a76d-b30ab6980996.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\d3e5497f-e6e1-4de1-a0e2-e1a7c77052ec.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\d3e5497f-e6e1-4de1-a0e2-e1a7c77052ec.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/d3e5497f-e6e1-4de1-a0e2-e1a7c77052ec.jpg",
       "AssetKind": "All",
@@ -1870,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\d3e5497f-e6e1-4de1-a0e2-e1a7c77052ec.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\daba6a5b-cf94-4df0-8dbe-f7d0d7367563.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\daba6a5b-cf94-4df0-8dbe-f7d0d7367563.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/daba6a5b-cf94-4df0-8dbe-f7d0d7367563.jpg",
       "AssetKind": "All",
@@ -1887,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\daba6a5b-cf94-4df0-8dbe-f7d0d7367563.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\df04235e-7ff1-497d-b170-3dfb310fff42.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\df04235e-7ff1-497d-b170-3dfb310fff42.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/df04235e-7ff1-497d-b170-3dfb310fff42.jpg",
       "AssetKind": "All",
@@ -1904,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\df04235e-7ff1-497d-b170-3dfb310fff42.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\e1777e42-7708-4ea3-b2b6-a8793dcf807d.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\e1777e42-7708-4ea3-b2b6-a8793dcf807d.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/e1777e42-7708-4ea3-b2b6-a8793dcf807d.jpg",
       "AssetKind": "All",
@@ -1921,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\e1777e42-7708-4ea3-b2b6-a8793dcf807d.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\e8368761-f423-4476-a5ae-f643c59363a2.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\e8368761-f423-4476-a5ae-f643c59363a2.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/e8368761-f423-4476-a5ae-f643c59363a2.jpg",
       "AssetKind": "All",
@@ -1938,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\e8368761-f423-4476-a5ae-f643c59363a2.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\f26d9dd4-941a-4662-8a3f-2cfc9f6e17a9.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\f26d9dd4-941a-4662-8a3f-2cfc9f6e17a9.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/f26d9dd4-941a-4662-8a3f-2cfc9f6e17a9.jpg",
       "AssetKind": "All",
@@ -1955,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\f26d9dd4-941a-4662-8a3f-2cfc9f6e17a9.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\f3acb46b-6985-4be0-b7f0-c64b81946cc7.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\f3acb46b-6985-4be0-b7f0-c64b81946cc7.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/f3acb46b-6985-4be0-b7f0-c64b81946cc7.jpg",
       "AssetKind": "All",
@@ -1972,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\f3acb46b-6985-4be0-b7f0-c64b81946cc7.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\f7859e14-b537-414e-b573-ad7b5d498e2a.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\f7859e14-b537-414e-b573-ad7b5d498e2a.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/f7859e14-b537-414e-b573-ad7b5d498e2a.jpg",
       "AssetKind": "All",
@@ -1989,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\f7859e14-b537-414e-b573-ad7b5d498e2a.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\f81bffbe-5ea3-4862-ae2a-1a01a78748d0.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\f81bffbe-5ea3-4862-ae2a-1a01a78748d0.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/f81bffbe-5ea3-4862-ae2a-1a01a78748d0.jpg",
       "AssetKind": "All",
@@ -2006,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\UserPicture\\f81bffbe-5ea3-4862-ae2a-1a01a78748d0.jpg"
     },
     {
-      "Identity": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\ff91ba23-ba80-4b63-be86-f6e0cfe4f1f2.jpg",
+      "Identity": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\ff91ba23-ba80-4b63-be86-f6e0cfe4f1f2.jpg",
       "SourceId": "E-Ticaret",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\E-Ticaret\\wwwroot\\",
       "BasePath": "_content/E-Ticaret",
       "RelativePath": "UserPicture/ff91ba23-ba80-4b63-be86-f6e0cfe4f1f2.jpg",
       "AssetKind": "All",

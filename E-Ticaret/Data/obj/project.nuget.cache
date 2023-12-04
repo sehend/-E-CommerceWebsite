@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HBSYZ5qiRjE1CMY0KXgemfd6R/5eoHZVq68TeFrrktPL0jkIbxFTZBkd6AUYZo8IrCjhuMpDfyF3NYr9ZVLT1g==",
+  "dgSpecHash": "Icry5r0yMjgXT0KKks+F2K2RpOZ8pWEjFLUp63CegwV1e6H6Wb8Eul/gauJ1GvX202gigeLLMXFe84A/gSDVFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\Data\\Data.csproj",
+  "projectFilePath": "C:\\Users\\sehen\\OneDrive\\Belgeler\\GitHub\\-E-CommerceWebsite\\E-Ticaret\\Data\\Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sehen\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\sehen\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

@@ -9,133 +9,133 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = E_Ticaret
 build_property.RootNamespace = E_Ticaret
-build_property.ProjectDir = C:\Users\sehen\OneDrive\Masaüstü\E-Ticaret\E-Ticaret\
+build_property.ProjectDir = C:\Users\sehen\OneDrive\Belgeler\GitHub\-E-CommerceWebsite\E-Ticaret\E-Ticaret\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\sehen\OneDrive\Masaüstü\E-Ticaret\E-Ticaret
+build_property.MSBuildProjectDirectory = C:\Users\sehen\OneDrive\Belgeler\GitHub\-E-CommerceWebsite\E-Ticaret\E-Ticaret
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/sehen/OneDrive/Masaüstü/E-Ticaret/E-Ticaret/Views/Basket/Index.cshtml]
+[C:/Users/sehen/OneDrive/Belgeler/GitHub/-E-CommerceWebsite/E-Ticaret/E-Ticaret/Views/Basket/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFza2V0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sehen/OneDrive/Masaüstü/E-Ticaret/E-Ticaret/Views/Home/AssignRolesToUser.cshtml]
+[C:/Users/sehen/OneDrive/Belgeler/GitHub/-E-CommerceWebsite/E-Ticaret/E-Ticaret/Views/Home/AssignRolesToUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBc3NpZ25Sb2xlc1RvVXNlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sehen/OneDrive/Masaüstü/E-Ticaret/E-Ticaret/Views/Home/ForgetPassword.cshtml]
+[C:/Users/sehen/OneDrive/Belgeler/GitHub/-E-CommerceWebsite/E-Ticaret/E-Ticaret/Views/Home/ForgetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGb3JnZXRQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sehen/OneDrive/Masaüstü/E-Ticaret/E-Ticaret/Views/Home/Index.cshtml]
+[C:/Users/sehen/OneDrive/Belgeler/GitHub/-E-CommerceWebsite/E-Ticaret/E-Ticaret/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sehen/OneDrive/Masaüstü/E-Ticaret/E-Ticaret/Views/Home/Privacy.cshtml]
+[C:/Users/sehen/OneDrive/Belgeler/GitHub/-E-CommerceWebsite/E-Ticaret/E-Ticaret/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sehen/OneDrive/Masaüstü/E-Ticaret/E-Ticaret/Views/Home/SignIn.cshtml]
+[C:/Users/sehen/OneDrive/Belgeler/GitHub/-E-CommerceWebsite/E-Ticaret/E-Ticaret/Views/Home/SignIn.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaWduSW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sehen/OneDrive/Masaüstü/E-Ticaret/E-Ticaret/Views/Home/SignUp.cshtml]
+[C:/Users/sehen/OneDrive/Belgeler/GitHub/-E-CommerceWebsite/E-Ticaret/E-Ticaret/Views/Home/SignUp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaWduVXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sehen/OneDrive/Masaüstü/E-Ticaret/E-Ticaret/Views/MainPageSettings/DetailsMainPage.cshtml]
+[C:/Users/sehen/OneDrive/Belgeler/GitHub/-E-CommerceWebsite/E-Ticaret/E-Ticaret/Views/MainPageSettings/DetailsMainPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblBhZ2VTZXR0aW5nc1xEZXRhaWxzTWFpblBhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sehen/OneDrive/Masaüstü/E-Ticaret/E-Ticaret/Views/MainPageSettings/Index.cshtml]
+[C:/Users/sehen/OneDrive/Belgeler/GitHub/-E-CommerceWebsite/E-Ticaret/E-Ticaret/Views/MainPageSettings/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblBhZ2VTZXR0aW5nc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sehen/OneDrive/Masaüstü/E-Ticaret/E-Ticaret/Views/MainPageSettings/Save.cshtml]
+[C:/Users/sehen/OneDrive/Belgeler/GitHub/-E-CommerceWebsite/E-Ticaret/E-Ticaret/Views/MainPageSettings/Save.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblBhZ2VTZXR0aW5nc1xTYXZlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sehen/OneDrive/Masaüstü/E-Ticaret/E-Ticaret/Views/MainPageSettings/Update.cshtml]
+[C:/Users/sehen/OneDrive/Belgeler/GitHub/-E-CommerceWebsite/E-Ticaret/E-Ticaret/Views/MainPageSettings/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblBhZ2VTZXR0aW5nc1xVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sehen/OneDrive/Masaüstü/E-Ticaret/E-Ticaret/Views/Member/UserEdit.cshtml]
+[C:/Users/sehen/OneDrive/Belgeler/GitHub/-E-CommerceWebsite/E-Ticaret/E-Ticaret/Views/Member/UserEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXFVzZXJFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sehen/OneDrive/Masaüstü/E-Ticaret/E-Ticaret/Views/Member/UserList.cshtml]
+[C:/Users/sehen/OneDrive/Belgeler/GitHub/-E-CommerceWebsite/E-Ticaret/E-Ticaret/Views/Member/UserList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXFVzZXJMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sehen/OneDrive/Masaüstü/E-Ticaret/E-Ticaret/Views/NavbarSettings/IndexCategory.cshtml]
+[C:/Users/sehen/OneDrive/Belgeler/GitHub/-E-CommerceWebsite/E-Ticaret/E-Ticaret/Views/NavbarSettings/IndexCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmF2YmFyU2V0dGluZ3NcSW5kZXhDYXRlZ29yeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sehen/OneDrive/Masaüstü/E-Ticaret/E-Ticaret/Views/NavbarSettings/SaveNavbarCategory.cshtml]
+[C:/Users/sehen/OneDrive/Belgeler/GitHub/-E-CommerceWebsite/E-Ticaret/E-Ticaret/Views/NavbarSettings/SaveNavbarCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmF2YmFyU2V0dGluZ3NcU2F2ZU5hdmJhckNhdGVnb3J5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sehen/OneDrive/Masaüstü/E-Ticaret/E-Ticaret/Views/NavbarSettings/UpdateNavbarCategory.cshtml]
+[C:/Users/sehen/OneDrive/Belgeler/GitHub/-E-CommerceWebsite/E-Ticaret/E-Ticaret/Views/NavbarSettings/UpdateNavbarCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmF2YmFyU2V0dGluZ3NcVXBkYXRlTmF2YmFyQ2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sehen/OneDrive/Masaüstü/E-Ticaret/E-Ticaret/Views/NavbarUnderSettings/IndexNavbarUnderCategory.cshtml]
+[C:/Users/sehen/OneDrive/Belgeler/GitHub/-E-CommerceWebsite/E-Ticaret/E-Ticaret/Views/NavbarUnderSettings/IndexNavbarUnderCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmF2YmFyVW5kZXJTZXR0aW5nc1xJbmRleE5hdmJhclVuZGVyQ2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sehen/OneDrive/Masaüstü/E-Ticaret/E-Ticaret/Views/NavbarUnderSettings/SaveNavbarUnderCategory.cshtml]
+[C:/Users/sehen/OneDrive/Belgeler/GitHub/-E-CommerceWebsite/E-Ticaret/E-Ticaret/Views/NavbarUnderSettings/SaveNavbarUnderCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmF2YmFyVW5kZXJTZXR0aW5nc1xTYXZlTmF2YmFyVW5kZXJDYXRlZ29yeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sehen/OneDrive/Masaüstü/E-Ticaret/E-Ticaret/Views/NavbarUnderSettings/UpdateNavbarUnderCategory.cshtml]
+[C:/Users/sehen/OneDrive/Belgeler/GitHub/-E-CommerceWebsite/E-Ticaret/E-Ticaret/Views/NavbarUnderSettings/UpdateNavbarUnderCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmF2YmFyVW5kZXJTZXR0aW5nc1xVcGRhdGVOYXZiYXJVbmRlckNhdGVnb3J5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sehen/OneDrive/Masaüstü/E-Ticaret/E-Ticaret/Views/ProductSettings/DetailsProduct.cshtml]
+[C:/Users/sehen/OneDrive/Belgeler/GitHub/-E-CommerceWebsite/E-Ticaret/E-Ticaret/Views/ProductSettings/DetailsProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFNldHRpbmdzXERldGFpbHNQcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sehen/OneDrive/Masaüstü/E-Ticaret/E-Ticaret/Views/ProductSettings/GetByWithName.cshtml]
+[C:/Users/sehen/OneDrive/Belgeler/GitHub/-E-CommerceWebsite/E-Ticaret/E-Ticaret/Views/ProductSettings/GetByWithName.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFNldHRpbmdzXEdldEJ5V2l0aE5hbWUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sehen/OneDrive/Masaüstü/E-Ticaret/E-Ticaret/Views/ProductSettings/Index.cshtml]
+[C:/Users/sehen/OneDrive/Belgeler/GitHub/-E-CommerceWebsite/E-Ticaret/E-Ticaret/Views/ProductSettings/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFNldHRpbmdzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sehen/OneDrive/Masaüstü/E-Ticaret/E-Ticaret/Views/ProductSettings/Save.cshtml]
+[C:/Users/sehen/OneDrive/Belgeler/GitHub/-E-CommerceWebsite/E-Ticaret/E-Ticaret/Views/ProductSettings/Save.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFNldHRpbmdzXFNhdmUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sehen/OneDrive/Masaüstü/E-Ticaret/E-Ticaret/Views/ProductSettings/Update.cshtml]
+[C:/Users/sehen/OneDrive/Belgeler/GitHub/-E-CommerceWebsite/E-Ticaret/E-Ticaret/Views/ProductSettings/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFNldHRpbmdzXFVwZGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sehen/OneDrive/Masaüstü/E-Ticaret/E-Ticaret/Views/Shared/Components/Default.cshtml]
+[C:/Users/sehen/OneDrive/Belgeler/GitHub/-E-CommerceWebsite/E-Ticaret/E-Ticaret/Views/Shared/Components/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sehen/OneDrive/Masaüstü/E-Ticaret/E-Ticaret/Views/Shared/Components/NavbarPartialView/Default.cshtml]
+[C:/Users/sehen/OneDrive/Belgeler/GitHub/-E-CommerceWebsite/E-Ticaret/E-Ticaret/Views/Shared/Components/NavbarPartialView/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTmF2YmFyUGFydGlhbFZpZXdcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sehen/OneDrive/Masaüstü/E-Ticaret/E-Ticaret/Views/Shared/Error.cshtml]
+[C:/Users/sehen/OneDrive/Belgeler/GitHub/-E-CommerceWebsite/E-Ticaret/E-Ticaret/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sehen/OneDrive/Masaüstü/E-Ticaret/E-Ticaret/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/sehen/OneDrive/Belgeler/GitHub/-E-CommerceWebsite/E-Ticaret/E-Ticaret/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sehen/OneDrive/Masaüstü/E-Ticaret/E-Ticaret/Views/_ViewImports.cshtml]
+[C:/Users/sehen/OneDrive/Belgeler/GitHub/-E-CommerceWebsite/E-Ticaret/E-Ticaret/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sehen/OneDrive/Masaüstü/E-Ticaret/E-Ticaret/Views/_ViewStart.cshtml]
+[C:/Users/sehen/OneDrive/Belgeler/GitHub/-E-CommerceWebsite/E-Ticaret/E-Ticaret/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sehen/OneDrive/Masaüstü/E-Ticaret/E-Ticaret/Views/Shared/_Layout.cshtml]
+[C:/Users/sehen/OneDrive/Belgeler/GitHub/-E-CommerceWebsite/E-Ticaret/E-Ticaret/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-3d20yugabj
