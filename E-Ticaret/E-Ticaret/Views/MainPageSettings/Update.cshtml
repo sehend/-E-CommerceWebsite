@@ -1,0 +1,93 @@
+﻿@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model Core.Model.MainPage
+
+<h1>Update</h1>
+
+<form asp-controller="MainPageSettings" asp-action="Update" method="post" enctype="multipart/form-data">
+
+    <div class="row mb-3">
+        <label for="Email" class="col-md-4 col-form-label" asp-for="ProductName"></label>
+        <div class="col-md-8">
+            <input required asp-for="ProductName" class="form-control">
+            <span class="text-danger" asp-validation-for="ProductName"></span>
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label for="BirthDay" class="col-md-4 col-form-label" asp-for="NavbarProductUnderCategoriesName"></label>
+        <div class="col-md-8">
+            <input required asp-for="NavbarProductUnderCategoriesName" class="form-control">
+            <span class="text-danger" asp-validation-for="NavbarProductUnderCategoriesName"></span>
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label for="BirthDay" class="col-md-4 col-form-label" asp-for="Stock"></label>
+        <div class="col-md-8">
+            <input required asp-for="Stock" class="form-control">
+            <span class="text-danger" asp-validation-for="Stock"></span>
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label for="Phone" class="col-md-4 col-form-label" asp-for="Explanation"></label>
+        <div class="col-md-8">
+            <input required asp-for="Explanation" class="form-control">
+            <span class="text-danger" asp-validation-for="Explanation"></span>
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label for="BirthDay" class="col-md-4 col-form-label" asp-for="OldPrices"></label>
+        <div class="col-md-8">
+            <input required asp-for="OldPrices" class="form-control">
+            <span class="text-danger" asp-validation-for="OldPrices"></span>
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label for="BirthDay" class="col-md-4 col-form-label" asp-for="Prices"></label>
+        <div class="col-md-8">
+            <input required asp-for="Prices" class="form-control">
+            <span class="text-danger" asp-validation-for="Prices"></span>
+        </div>
+    </div>
+
+
+
+
+    <div class="row mb-3">
+        <label for="Picture" class="col-md-4 col-form-label" asp-for="image"></label>
+        <div class="col-md-8">
+            <input required type="file" asp-for="image" class="form-control">
+            <span class="text-danger" asp-validation-for="image"></span>
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label for="Picture" class="col-md-4 col-form-label" asp-for="image2"></label>
+        <div class="col-md-8">
+            <input required type="file" asp-for="image2" class="form-control">
+            <span class="text-danger" asp-validation-for="image2"></span>
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label for="Picture" class="col-md-4 col-form-label" asp-for="image3"></label>
+        <div class="col-md-8">
+            <input required type="file" asp-for="image3" class="form-control">
+            <span class="text-danger" asp-validation-for="image3"></span>
+        </div>
+    </div>
+
+    <div class="row mb-3">
+
+        <div class="col-md-8 offset-md-4">
+
+            <button type="submit" class="btn btn-primary">Güncelle</button>
+
+        </div>
+    </div>
+
+</form>
+

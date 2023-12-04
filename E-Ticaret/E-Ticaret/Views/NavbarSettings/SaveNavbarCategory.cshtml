@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "SaveNavbarCategory";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model Core.Model.NavbarCategory
+
+
+<h1>Save</h1>
+
+<form asp-controller="NavbarSettings" asp-action="SaveNavbarCategory" method="post" enctype="multipart/form-data">
+
+    <div class="row mb-3">
+        <label for="Email" class="col-md-4 col-form-label" asp-for="CategoryName"></label>
+        <div class="col-md-8">
+            <input required required asp-for="CategoryName" class="form-control">
+            <span class="text-danger" asp-validation-for="CategoryName"></span>
+        </div>
+    </div>
+
+    <div class="row mb-3">
+
+        <div class="col-md-8 offset-md-4">
+
+            <button type="submit" class="btn btn-primary">Kaydet</button>
+
+        </div>
+    </div>
+
+</form>
+
+
+

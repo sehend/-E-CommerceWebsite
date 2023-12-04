@@ -1,0 +1,117 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model List<Core.Model.Product>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css">
+
+<div style="margin-top:10px">
+
+    <a class="btn btn-outline-primary" asp-controller="ProductSettings" asp-action="Save">Yeni Kayıt</a>
+
+    <div class=" text-center" style="margin-top:10px">
+
+        <table id="table" class="table table-striped">
+            <thead>
+                <tr>
+                    <th>
+                        Resim
+                    </th>
+
+                    <th>
+                        Resim 2
+                    </th>
+
+                    <th>
+                        Resim 3
+                    </th>
+
+                    <th>
+                        Kategoriy
+                    </th>
+
+                    <th>
+                        Ürün Adı
+                    </th>
+
+                    <th>
+                        Stock
+                    </th>
+
+                    <th>
+                        Açıklama
+                    </th>
+
+                    <th>
+                        Eski Fiyat
+                    </th>
+
+                    <th>
+                        Ücret
+                    </th>
+
+                    <th>
+                        Sil
+                    </th>
+
+                    <th>
+                        Güncelle
+                    </th>
+
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+
+
+                        <td><img style="width:50px;height:50px;" src="/UserPicture/@item.image" /> </td>
+
+                        <td><img style="width:50px;height:50px;" src="/UserPicture/@item.image2" /> </td>
+
+                        <td><img style="width:50px;height:50px;" src="/UserPicture/@item.image3" /> </td>
+
+                        <td>@item.NavbarProductUnderCategoriesName</td>
+
+                        <td>@item.ProductName</td>
+
+                        <td>@item.Stock</td>
+
+                        <td>@item.Explanation</td>
+
+                        <td>@item.OldPrices</td>
+
+                        <td>@item.Prices</td>
+
+                        <td><a class="btn btn-outline-primary" asp-controller="ProductSettings" asp-action="Remove" asp-route-id="@item.Id">Sil</a></td>
+
+                        <td><a class="btn btn-outline-primary" asp-controller="ProductSettings" asp-action="Update" asp-route-id="@item.Id">Güncelle</a></td>
+
+                    </tr>
+                }
+
+            </tbody>
+
+
+        </table>
+
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/dataTables.bootstrap5.min.js"></script>
+
+<script>
+    new $('#table').dataTable({
+        "bInfo": false,
+        "lengthChange": false
+    });
+</script>
+

@@ -1,0 +1,103 @@
+﻿
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model Core.EncapsulationDtos.ProductAndUnderNavbarEncapsulationModel
+
+<h1>Update</h1>
+
+<form asp-controller="ProductSettings" asp-action="Update" method="post" enctype="multipart/form-data">
+
+    <div class="row mb-3">
+        <label for="Email" class="col-md-4 col-form-label" asp-for="@Model.Product.ProductName"></label>
+        <div class="col-md-8">
+            <input required asp-for="@Model.Product.ProductName" class="form-control">
+            <span class="text-danger" asp-validation-for="@Model.Product.ProductName"></span>
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label for="Email" class="col-md-4 col-form-label" asp-for="@Model.Product.NavbarProductUnderCategoriesName"></label>
+        <div class="col-md-8">
+            <select class="form-select" asp-for="@Model.ProductDto.NavbarProductUnderCategoriesName" aria-label="Default select example">
+
+                <option selected></option>
+
+                @foreach (var item in Model.navbarUnderCategories)
+                {
+                    <option value="@item.CategoryName">@item.CategoryName</option>
+                }
+
+
+
+            </select>
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label for="BirthDay" class="col-md-4 col-form-label" asp-for="@Model.Product.Stock"></label>
+        <div class="col-md-8">
+            <input required asp-for="@Model.Product.Stock" class="form-control">
+            <span class="text-danger" asp-validation-for="@Model.Product.Stock"></span>
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label for="Phone" class="col-md-4 col-form-label" asp-for="@Model.Product.Explanation"></label>
+        <div class="col-md-8">
+            <input required asp-for="@Model.Product.Explanation" class="form-control">
+            <span class="text-danger" asp-validation-for="@Model.Product.Explanation"></span>
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label for="BirthDay" class="col-md-4 col-form-label" asp-for="@Model.Product.OldPrices"></label>
+        <div class="col-md-8">
+            <input required asp-for="@Model.Product.OldPrices" class="form-control">
+            <span class="text-danger" asp-validation-for="@Model.Product.OldPrices"></span>
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label for="BirthDay" class="col-md-4 col-form-label" asp-for="@Model.Product.Prices"></label>
+        <div class="col-md-8">
+            <input required asp-for="@Model.Product.Prices" class="form-control">
+            <span class="text-danger" asp-validation-for="@Model.Product.Prices"></span>
+        </div>
+    </div>
+
+
+
+
+    <div class="row mb-3">
+        <label for="Picture" class="col-md-4 col-form-label" asp-for="@Model.ProductDto.image"></label>
+        <div class="col-md-8">
+            <input required type="file" asp-for="@Model.ProductDto.image" class="form-control">
+            <span class="text-danger" asp-validation-for="@Model.ProductDto.image"></span>
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label for="Picture" class="col-md-4 col-form-label" asp-for="@Model.ProductDto.image2"></label>
+        <div class="col-md-8">
+            <input required type="file" asp-for="@Model.ProductDto.image2" class="form-control">
+            <span class="text-danger" asp-validation-for="@Model.ProductDto.image2"></span>
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label for="Picture" class="col-md-4 col-form-label" asp-for="@Model.ProductDto.image3"></label>
+        <div class="col-md-8">
+            <input required type="file" asp-for="@Model.ProductDto.image3" class="form-control">
+            <span class="text-danger" asp-validation-for="@Model.ProductDto.image3"></span>
+        </div>
+    </div>
+
+    <div class="row mb-3">
+
+        <div class="col-md-8 offset-md-4">
+
+            <button type="submit" class="btn btn-primary">Güncelle</button>
+
+        </div>
+    </div>
+
+</form>

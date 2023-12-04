@@ -1,0 +1,73 @@
+﻿
+@{
+    ViewData["Title"] = "IndexNavbarUnderCategory";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model List<Core.Model.NavbarUnderCategory>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css">
+
+<div style="margin-top:10px">
+
+    <a class="btn btn-outline-primary" asp-controller="NavbarUnderSettings" asp-action="SaveNavbarUnderCategory">Yeni Kayıt</a>
+
+    <div  style="margin-top:10px">
+
+        <table id="table" class="table table-striped">
+            <thead>
+                <tr>
+                    <th>
+                        Category Adı
+                    </th>
+
+                    <th>
+                        Alt Category Adı
+                    </th>
+
+                    <th>
+                        Sil
+                    </th>
+
+                    <th>
+                        Güncelle
+                    </th>
+
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+
+                        <td>@item.CategoryName</td>
+
+                        <td>@item.UnderCategoryName</td>
+
+                        <td><a class="btn btn-outline-primary" asp-controller="NavbarUnderSettings" asp-action="RemoveNavbarUnderCategory" asp-route-id="@item.Id">Sil</a></td>
+
+                        <td><a class="btn btn-outline-primary" asp-controller="NavbarUnderSettings" asp-action="UpdateNavbarUnderCategory" asp-route-id="@item.Id">Güncelle</a></td>
+
+                    </tr>
+                }
+
+            </tbody>
+
+
+        </table>
+
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/dataTables.bootstrap5.min.js"></script>
+
+<script>
+    new $('#table').dataTable({
+        "bInfo": false,
+        "lengthChange": false
+    });
+</script>

@@ -1,0 +1,489 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\E-Ticaret.bundle.scp.css",
+      "PackagePath": "staticwebassets\\E-Ticaret.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\02e378bf-b9d5-4962-8599-7b94e36a0477.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\02e378bf-b9d5-4962-8599-7b94e36a0477.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\03a335e4-cd88-4708-bbdf-11d0c717fc93.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\03a335e4-cd88-4708-bbdf-11d0c717fc93.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\041bc288-7472-4d7a-b42f-34d83be8e8fd.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\041bc288-7472-4d7a-b42f-34d83be8e8fd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\0587526a-e5d6-4c4d-8355-21c6d7559187.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\0587526a-e5d6-4c4d-8355-21c6d7559187.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\086e238b-cfde-45d7-8829-2083ab3d8da0.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\086e238b-cfde-45d7-8829-2083ab3d8da0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\08a2cf3a-9442-4563-b430-b65ca0a40e32.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\08a2cf3a-9442-4563-b430-b65ca0a40e32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\090f7e6d-7f42-4dbb-9b0a-0a406985e417.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\090f7e6d-7f42-4dbb-9b0a-0a406985e417.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\0934a665-7442-4617-8d95-64475de9f465.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\0934a665-7442-4617-8d95-64475de9f465.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\11c21943-5d70-4e18-84c0-18d775bc5a99.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\11c21943-5d70-4e18-84c0-18d775bc5a99.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\1b481c37-078f-45b8-bf7b-1f9f62bc1414.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\1b481c37-078f-45b8-bf7b-1f9f62bc1414.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\1e7ee9eb-9a37-4578-aafc-5af23fa8cc37.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\1e7ee9eb-9a37-4578-aafc-5af23fa8cc37.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\1eb6e005-cb93-4b6d-9162-fed770ce9bf5.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\1eb6e005-cb93-4b6d-9162-fed770ce9bf5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\2431867d-36e6-487e-939d-51c804bd2471.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\2431867d-36e6-487e-939d-51c804bd2471.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\2527c0e2-3b2d-43e8-a844-03a5ef90f3a2.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\2527c0e2-3b2d-43e8-a844-03a5ef90f3a2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\2a4bbd40-80a6-40fd-8044-a018ac4a3195.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\2a4bbd40-80a6-40fd-8044-a018ac4a3195.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\2a943588-106f-4535-8109-ceb17161120b.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\2a943588-106f-4535-8109-ceb17161120b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\2ccb4093-dbae-4927-8740-7bc885687ed2.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\2ccb4093-dbae-4927-8740-7bc885687ed2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\330df2f3-f85b-442e-9c4a-6dd625059a7e.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\330df2f3-f85b-442e-9c4a-6dd625059a7e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\362a0574-f962-405f-ae65-18e3fe829e8f.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\362a0574-f962-405f-ae65-18e3fe829e8f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\3b4c0edf-615a-471c-acf5-cc94f02fbd08.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\3b4c0edf-615a-471c-acf5-cc94f02fbd08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\3fe831ee-f780-4b6c-80b4-975cd77b7a20.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\3fe831ee-f780-4b6c-80b4-975cd77b7a20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\658a6022-f571-47f8-856b-92b3eda87dd2.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\658a6022-f571-47f8-856b-92b3eda87dd2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\6d4ab7db-7e91-4735-beaf-ac1cdf69c8ab.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\6d4ab7db-7e91-4735-beaf-ac1cdf69c8ab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\6e29123a-97bc-422d-88cd-769b1f856b3d.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\6e29123a-97bc-422d-88cd-769b1f856b3d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\79055393-0e70-4257-9e3d-9db9269417ed.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\79055393-0e70-4257-9e3d-9db9269417ed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\7c151504-582e-4a2c-a834-1c3ef445f9bf.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\7c151504-582e-4a2c-a834-1c3ef445f9bf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\810d948f-daef-4287-b945-6a5a915ad52f.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\810d948f-daef-4287-b945-6a5a915ad52f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\82295e42-2313-4a6e-a9c6-24d5d2e330e0.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\82295e42-2313-4a6e-a9c6-24d5d2e330e0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\82927427-9b69-4414-964d-99b9dceb6ba3.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\82927427-9b69-4414-964d-99b9dceb6ba3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\8fb41d06-f50b-4806-a0da-bb38b9873ccf.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\8fb41d06-f50b-4806-a0da-bb38b9873ccf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\9520c87b-4123-435e-ac23-b503f1c6c682.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\9520c87b-4123-435e-ac23-b503f1c6c682.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\96c7ee68-3d32-4fc2-9e8a-4c2fb06d2cbc.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\96c7ee68-3d32-4fc2-9e8a-4c2fb06d2cbc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\9f184ff9-2e0a-4558-a721-d601985a5a8a.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\9f184ff9-2e0a-4558-a721-d601985a5a8a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\9f892dcf-0d9c-4f1c-8896-a077337b0346.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\9f892dcf-0d9c-4f1c-8896-a077337b0346.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\a1119dbc-364b-453d-b2b9-e010b90b3f8e.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\a1119dbc-364b-453d-b2b9-e010b90b3f8e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\a1ad8dad-de78-4763-885b-cc89c7036783.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\a1ad8dad-de78-4763-885b-cc89c7036783.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\a1d8f79b-9e8b-4567-9094-a7833f20e1d7.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\a1d8f79b-9e8b-4567-9094-a7833f20e1d7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\b11d2305-d51b-49b5-9cf6-d829c8027ecf.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\b11d2305-d51b-49b5-9cf6-d829c8027ecf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\b49194e7-1ce0-42ef-b0a8-7e3a707b85af.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\b49194e7-1ce0-42ef-b0a8-7e3a707b85af.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\bc17eee8-5fc2-4c0a-a61b-dd15a3ade0e2.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\bc17eee8-5fc2-4c0a-a61b-dd15a3ade0e2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\bf9f685f-6859-4277-ae0d-b2be2176cb08.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\bf9f685f-6859-4277-ae0d-b2be2176cb08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\c1bde4be-325a-42f5-8b89-38340e9a2966.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\c1bde4be-325a-42f5-8b89-38340e9a2966.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\c4b093b0-47bd-47de-8ad1-abfc09ab358e.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\c4b093b0-47bd-47de-8ad1-abfc09ab358e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\c8c64673-02d8-483d-883f-af90578e1bff.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\c8c64673-02d8-483d-883f-af90578e1bff.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\c8f05a75-4255-4f46-b857-28d545a5938e.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\c8f05a75-4255-4f46-b857-28d545a5938e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\cb359272-81d0-4187-a357-3e7f94f77f62.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\cb359272-81d0-4187-a357-3e7f94f77f62.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\cd033e58-0223-45c1-a76d-b30ab6980996.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\cd033e58-0223-45c1-a76d-b30ab6980996.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\d3e5497f-e6e1-4de1-a0e2-e1a7c77052ec.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\d3e5497f-e6e1-4de1-a0e2-e1a7c77052ec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\daba6a5b-cf94-4df0-8dbe-f7d0d7367563.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\daba6a5b-cf94-4df0-8dbe-f7d0d7367563.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\df04235e-7ff1-497d-b170-3dfb310fff42.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\df04235e-7ff1-497d-b170-3dfb310fff42.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\e1777e42-7708-4ea3-b2b6-a8793dcf807d.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\e1777e42-7708-4ea3-b2b6-a8793dcf807d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\e8368761-f423-4476-a5ae-f643c59363a2.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\e8368761-f423-4476-a5ae-f643c59363a2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\f26d9dd4-941a-4662-8a3f-2cfc9f6e17a9.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\f26d9dd4-941a-4662-8a3f-2cfc9f6e17a9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\f3acb46b-6985-4be0-b7f0-c64b81946cc7.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\f3acb46b-6985-4be0-b7f0-c64b81946cc7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\f7859e14-b537-414e-b573-ad7b5d498e2a.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\f7859e14-b537-414e-b573-ad7b5d498e2a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\f81bffbe-5ea3-4862-ae2a-1a01a78748d0.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\f81bffbe-5ea3-4862-ae2a-1a01a78748d0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\UserPicture\\ff91ba23-ba80-4b63-be86-f6e0cfe4f1f2.jpg",
+      "PackagePath": "staticwebassets\\UserPicture\\ff91ba23-ba80-4b63-be86-f6e0cfe4f1f2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sehen\\OneDrive\\Masaüstü\\E-Ticaret\\E-Ticaret\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.E-Ticaret.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.E-Ticaret.props",
+      "PackagePath": "build\\E-Ticaret.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.E-Ticaret.props",
+      "PackagePath": "buildMultiTargeting\\E-Ticaret.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.E-Ticaret.props",
+      "PackagePath": "buildTransitive\\E-Ticaret.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

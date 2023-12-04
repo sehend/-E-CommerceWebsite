@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "UserEdit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model Core.Dtos.UserDto
+
+
+<div style="margin-top:20px">
+
+    <form class="mt-5" asp-controller="Member" asp-action="UserEdit" method="post">
+
+        <div class="row mb-3">
+            <label for="Phone" class="col-md-4 col-form-label" asp-for="UserNameMain"></label>
+            <div class="col-md-8">
+                <input required asp-for="UserNameMain" class="form-control">
+                <span class="text-danger" asp-validation-for="UserNameMain"></span>
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <label for="Email" class="col-md-4 col-form-label" asp-for="Email"></label>
+            <div class="col-md-8">
+                <input required asp-for="Email" class="form-control">
+                <span class="text-danger" asp-validation-for="Email"></span>
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <label for="Email" class="col-md-4 col-form-label" asp-for="PhoneNumber"></label>
+            <div class="col-md-8">
+                <input required asp-for="PhoneNumber" class="form-control">
+                <span class="text-danger" asp-validation-for="PhoneNumber"></span>
+            </div>
+        </div>
+
+        <div class="row mb-3">
+
+            <div class="col-md-8 offset-md-4">
+
+                <button type="submit" class="btn btn-primary">Güncelle</button>
+
+            </div>
+        </div>
+
+    </form>
+
+</div>
+

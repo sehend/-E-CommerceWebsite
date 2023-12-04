@@ -1,0 +1,50 @@
+﻿
+@{
+    ViewData["Title"] = "UpdateNavbarUnderCategory";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Update</h1>
+
+@model Core.EncapsulationDtos.HomeSaveEncapsulationModel
+
+
+<h1>Save</h1>
+
+<form asp-controller="NavbarUnderSettings" asp-action="UpdateNavbarUnderCategory" method="post" enctype="multipart/form-data">
+
+    <div class="row mb-3">
+        <label for="Email" class="col-md-4 col-form-label" asp-for="@Model.navbarUnderCategories.UnderCategoryName"></label>
+        <div class="col-md-8">
+            <input required asp-for="@Model.navbarUnderCategories.UnderCategoryName" class="form-control">
+            <span class="text-danger" asp-validation-for="@Model.navbarUnderCategories.UnderCategoryName"></span>
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label for="Email" class="col-md-4 col-form-label" asp-for="@Model.navbarUnderCategories.CategoryName"></label>
+        <div class="col-md-8">
+            <select class="form-select" asp-for="@Model.navbarUnderCategories.CategoryName" aria-label="Default select example">
+
+                <option selected></option>
+
+                @foreach (var item in Model.navbarCategories)
+                {
+                    <option value="@item.CategoryName">@item.CategoryName</option>
+                }
+
+
+
+            </select>
+        </div>
+    </div>
+
+    <div class="row mb-3">
+
+        <div class="col-md-8 offset-md-4">
+
+            <button type="submit" class="btn btn-primary">Kaydet</button>
+
+        </div>
+    </div>
+
+</form>

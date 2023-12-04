@@ -1,0 +1,113 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model List<Core.Model.MainPage>
+
+
+
+
+    <div style="margin-top:10px">
+
+        <a class="btn btn-outline-primary" asp-controller="MainPageSettings" asp-action="Save">Yeni Kayıt</a>
+
+        <div class=" text-center" style="margin-top:10px">
+
+            <table id="table" class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>
+                            Resim
+                        </th>
+
+                        <th>
+                            Resim 2
+                        </th>
+
+                        <th>
+                            Resim 3
+                        </th>
+
+                        <th>
+                            Kategoriy
+                        </th>
+
+                        <th>
+                            Ürün Adı
+                        </th>
+
+                        <th>
+                            Stock
+                        </th>
+
+                        <th>
+                            Açıklama
+                        </th>
+
+                        <th>
+                            Eski Fiyat
+                        </th>
+
+                        <th>
+                            Ücret
+                        </th>
+
+                        <th>
+                            Sil
+                        </th>
+
+                        <th>
+                            Güncelle
+                        </th>
+
+                    </tr>
+                </thead>
+                <tbody>
+
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+
+
+                            <td><img style="width:50px;height:50px;" src="/UserPicture/@item.image" /> </td>
+
+                            <td><img style="width:50px;height:50px;" src="/UserPicture/@item.image2" /> </td>
+
+                            <td><img style="width:50px;height:50px;" src="/UserPicture/@item.image3" /> </td>
+
+                            <td>@item.NavbarProductUnderCategoriesName</td>
+
+                            <td>@item.ProductName</td>
+
+                            <td>@item.Stock</td>
+
+                            <td>@item.Explanation</td>
+
+                            <td>@item.OldPrices</td>
+
+                            <td>@item.Prices</td>
+
+                            <td><a class="btn btn-outline-primary" asp-controller="MainPageSettings" asp-action="Remove" asp-route-id="@item.Id">Sil</a></td>
+
+                            <td><a class="btn btn-outline-primary" asp-controller="MainPageSettings" asp-action="Update" asp-route-id="@item.Id">Güncelle</a></td>
+
+                        </tr>
+                    }
+
+                </tbody>
+
+
+            </table>
+
+        </div>
+    </div>
+
+
+<script>
+    new $('#table').dataTable({
+        "bInfo": false,
+        "lengthChange": false
+    });
+</script>
+

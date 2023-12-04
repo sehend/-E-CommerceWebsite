@@ -1,0 +1,86 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@using X.PagedList;
+
+@using X.PagedList.Mvc.Core;
+@using X.PagedList.Mvc.Core.Common;
+
+@model IPagedList<Core.Model.MainPage>
+
+   
+
+
+
+
+
+    <div class="row">
+
+
+        @foreach (var item in Model)
+        {
+            <div class="col-sm-3 mt-3">
+                <div class="card">
+                    @if (item.Stock > 0)
+                    {
+                        <div class="d-flex justify-content-between p-3">
+
+                            <div class="bg-info rounded-circle d-flex align-items-center justify-content-center shadow-1-strong"
+                                 style="width: 35px; height: 35px;">
+                                <p class="text-white mb-0 small">@item.Stock</p>
+                            </div>
+
+
+
+                        </div>
+                    }
+
+                    else
+                    {
+                        <div style="width: 135px; height: 35px;background-color:red;color:white" class="text-center mt-3 mb-3"><p class="mt-1">Stock'da Yok</p></div>
+                    }
+
+                    <img src="/UserPicture/@item.image"
+                         class="card-img-top w-auto" alt="Laptop" />
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between">
+                            <p class="small"><a href="#!" class="text-muted">@item.NavbarProductUnderCategoriesName</a></p>
+
+                            @if (@item.OldPrices != 0)
+                            {
+                                if (item.OldPrices != null)
+                                {
+                                    <p class="small text-danger"><s>@item.OldPrices Tl</s></p>
+                                }
+                            }
+
+                        </div>
+
+                        <div class="d-flex justify-content-between mb-3">
+                            <h5 class="mb-0">@item.ProductName</h5>
+                            <h5 class="text-dark mb-0">@item.Prices TL</h5>
+                        </div>
+
+                        <a asp-controller="MainPageSettings" asp-action="DetailsMainPage" asp-route-id="@item.Id" class="btn btn-success">İncele</a>
+
+                    </div>
+                </div>
+            </div>
+
+        }
+
+
+
+
+    </div>
+
+
+
+
+<div class="d-flex justify-content-center mt-5">
+    @Html.PagedListPager((IPagedList)Model,page=>Url.Action("Index",new {page}), new PagedListRenderOptions {
+    LiElementClasses = new string[] { "page-item" },
+    PageClasses = new string[] { "page-link" }
+    })
+</div>

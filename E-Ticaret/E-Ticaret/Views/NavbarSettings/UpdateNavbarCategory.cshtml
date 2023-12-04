@@ -1,0 +1,34 @@
+﻿
+@{
+    ViewData["Title"] = "UpdateNavbarCategory";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model Core.Model.NavbarCategory
+
+<h1>Update</h1>
+
+<form asp-controller="NavbarSettings" asp-action="UpdateNavbarCategory" method="post" enctype="multipart/form-data">
+
+    <div class="row mb-3">
+        <label for="Email" class="col-md-4 col-form-label" asp-for="CategoryName"></label>
+        <div class="col-md-8">
+            <input required asp-for="CategoryName" class="form-control">
+            <span class="text-danger" asp-validation-for="CategoryName"></span>
+        </div>
+    </div>
+
+   
+
+    <div class="row mb-3">
+
+        <div class="col-md-8 offset-md-4">
+
+            <button type="submit" class="btn btn-primary">Güncelle</button>
+
+        </div>
+    </div>
+
+</form>
+
+

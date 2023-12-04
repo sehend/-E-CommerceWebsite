@@ -1,0 +1,82 @@
+﻿
+@{
+    ViewData["Title"] = "UserList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model List<Core.Dtos.UserDto>
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css">
+
+<div style="margin-top:20px">
+
+    <table id="table" class="table table-striped">
+        <thead>
+            <tr>
+                <th>
+                    Kulanıcı Adı
+                </th>
+                <th>
+                    Email
+                </th>
+                <th>
+                    PhoenNumber
+                </th>
+                
+                <th>
+                    Sil
+                </th>
+                
+                <th>
+                    Güncelle
+                </th>
+
+                <th>
+                    Role Ata
+                </th>
+
+
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+
+                    <td>@item.UserNameMain</td>
+
+                    <td>@item.Email</td>
+
+                    <td>@item.PhoneNumber</td>
+
+                    <td><a class="btn btn-outline-primary" asp-controller="Member" asp-action="Remove" asp-route-id="@item.Email">Sil</a></td>
+
+                    <td><a class="btn btn-outline-primary" asp-controller="Member" asp-action="UserEdit" asp-route-id="@item.Email">Güncelle</a></td>
+
+                    <td><a class="btn btn-outline-primary" asp-controller="Home" asp-action="AssignRolesToUser" asp-route-id="@item.Email">Role Ata</a></td>
+
+                </tr>
+            }
+
+        </tbody>
+
+
+    </table>
+
+</div>
+
+
+
+<script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/dataTables.bootstrap5.min.js"></script>
+
+<script>
+    new DataTable('#table');
+</script>
+
+
